@@ -14,7 +14,7 @@ server.get('/', function handler(request, reply) {
   console.log('Sending reply to client but wait for it...');
 });
 
-// Uses `http` and `https` module to open sockets
+// Uses native `http` and `https` module to open sockets
 // Socket IO is keeping the event loop alive and Node.js running
 (async function start() {
   try {

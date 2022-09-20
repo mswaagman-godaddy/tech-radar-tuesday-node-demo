@@ -6,16 +6,8 @@
   "scripts": {
     "start": "node server.mjs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mswaagman-godaddy/tech-radar-tuesday-node-demo.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mswaagman-godaddy/tech-radar-tuesday-node-demo/issues"
-  },
-  "homepage": "https://github.com/mswaagman-godaddy/tech-radar-tuesday-node-demo#readme",
+  "author": "Martijn Swaagman <mswaagman@godaddy.com>",
+  "license": "UNLICENSED",
   "dependencies": {
     "fastify": "^4.6.0"
   }
